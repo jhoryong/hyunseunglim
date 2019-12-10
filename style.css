@@ -109,13 +109,14 @@ header .container {
 .hero-video {
     position: relative;
     display: flex;
-    justify-content: center;
-    text-align: center;
+    /* justify-content: center;
+    text-align: center; */
 }
 
 #heroVideo {
     width: 100vw;
-    height: auto;
+    height: 100vh;
+    
 }
  
 /* @media (min-aspect-ratio:768px) {
